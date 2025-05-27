@@ -1,0 +1,41 @@
+# Ignore files and folders for project_techclub
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.pipenv/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE/editor folders
+.vscode/
+.idea/
+*.swp
+
+# Log files
+*.log
+
+# Environment variables
+.env
+.env.*
+
+# Node.js dependencies (if any)
+node_modules/
+
+# Ignore local settings
+local_settings.py
