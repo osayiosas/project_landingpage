@@ -39,3 +39,4 @@ node_modules/
 
 # Ignore local settings
 local_settings.py
+.vercel
